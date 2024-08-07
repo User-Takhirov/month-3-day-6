@@ -26,13 +26,37 @@
 // funkiyaga argument berish
 
 // let a = 90;
-// function jamshid(num) {
+// function jamshid(num) //num avariable a ga teng emas qiymatiga teng yani 90 ga
+// funksiyada berilgan variabller faqat qiymatni oladi 
+// let num=90
+// {
 //   console.log(num + 90);
 // }  //tepadigi qismi parametr qeyiladi
 
 
 // jamshid(a);  //pasda berilgan qism argument deyiladi 
 
+
+
+// argumentga berilgan qiymatlar order bilan joylanadi
+// function jamshid(num,num2,num3) {
+//  console.log(num2,num3);   
+// }
+// console.log(a,"salom",66);
+//salom bu yerda num2 ga teng  va num3 66 ga teng;
+
+
+
+// let a=90;
+// function jamshid(a) {
+//     a+=1;
+//     console.log(a);
+// }
+// jamshid(a);
+// console.log(a);
+//globaldagi a variable bilan funksiyadagi a bitta narsa emas;
+// va bu faqat primitive qiymatlarda 
+ 
 
 
 
