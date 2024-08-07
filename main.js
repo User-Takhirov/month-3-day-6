@@ -59,6 +59,31 @@
  
 
 
+// let b=90;
+// function jamshid(a) {
+//     a+=1;
+//     console.log(a);
+// }
+// jamshid(b);
+// console.log(b);
+
+// jamshid bu faqat value ni oladi funksiyadagi;
+
+
+
+
+
+// function jamshid(a) {
+//  a+=1;
+//  console.log(a);
+    
+// }
+// jamshid();
+// type coversionda undefinedga qiymat qoshilsa NAN chiqaradi
+
+
+
+// function return
 
 
 
