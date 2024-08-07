@@ -84,9 +84,20 @@
 
 
 // function return
+function x(a,b){
+// console.log(a+b);    
+return a+b
+// return faqat chaqirilgan joyga retur qiladi
+}
+let result=x(a+b);
+console.log(result);
 
 
 
+
+
+
+// console log dasturlashda faqat test qilish uchun ishlatiladi
 // undefined = ozgaruvchi elon qilinganda lekin qiymat berilmaganda undefined chiqaradi
 // dead zone =variable elon qilingan qatordan tepadagi qator dead zone deyiladi
 // dasturlar 3 turga bolinadi chiziqli funksiya yonaltirilgan  va obyektga yonatilgan
